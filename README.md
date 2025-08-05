@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GauravGupta2022
+- 👋 Hi, I’m @GauravGupta2022 from the Bay Area
 - 👀 I’m interested in coding, science, chess, and math!
 <!---
 GauravGupta2022/GauravGupta2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

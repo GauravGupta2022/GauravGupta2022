@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GauravGupta2022 from the Bay Area
+- 👋 Hi, I’m @GauravGupta2022! Thanks for visiting my profile.
+- 🌎 I'm from the Bay Area, where I graduated from Amador Valley High School. 
 - 🎓 I'm currently pursuing a B.S. in Computer Science & Engineering at UCLA (2026–Present)
 - 👀 In my free time, I like playing chess, exploring new board games, and solving logic puzzles. 
 <!---
